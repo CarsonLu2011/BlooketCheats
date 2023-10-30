@@ -13,6 +13,12 @@ There are 3 good methods to using these scripts:
 3. Copying a script and running it in the inspect element console
 </details>
 
+<details><summary><h3>How do I use theses cheats?</h3></summary>
+
+You can make a bookmark containing the code. To make the bookmark, make the bookmark, edit it and paste the code from *-min.js, and write <b>javascript:</b> in the front. Use -min.js for bookmarks. If Javascript is disabled, don't use the bookmark option.
+Go to the code and copy it by clicking the button with the two boxes, and press <b>CTRL + SHIFT + J</b> to access the console and paste the code in and press enter to execute.
+</details>
+
 <details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
 
 We don't actually know what to do about this or how to fix it, sorry.
